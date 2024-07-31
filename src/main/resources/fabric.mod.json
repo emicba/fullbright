@@ -3,7 +3,7 @@
   "id": "fullbright",
   "version": "${version}",
   "name": "Fullbright",
-  "description": "",
+  "description": "Allows you to toggle full brightness with a configurable keybind :^)",
   "authors": ["emicba"],
   "contact": {
     "sources": "https://github.com/emicba/fullbright"
