@@ -10,16 +10,11 @@
   },
   "license": "CC0-1.0",
   "icon": "assets/fullbright/icon.png",
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
     "client": ["com.emicba.Fullbright"]
   },
-  "mixins": [
-    {
-      "config": "fullbright.client.mixins.json",
-      "environment": "client"
-    }
-  ],
+  "mixins": ["fullbright.client.mixins.json"],
   "depends": {
     "fabricloader": ">=0.16.9",
     "minecraft": "~1.21.4",
