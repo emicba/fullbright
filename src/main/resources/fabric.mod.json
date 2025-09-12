@@ -16,8 +16,8 @@
   },
   "mixins": ["fullbright.client.mixins.json"],
   "depends": {
-    "fabricloader": ">=0.16.14",
-    "minecraft": "~1.21.6",
+    "fabricloader": ">=0.17.2",
+    "minecraft": "~1.21.8",
     "java": ">=21",
     "fabric-api": "*",
     "fabric-key-binding-api-v1": "*"
